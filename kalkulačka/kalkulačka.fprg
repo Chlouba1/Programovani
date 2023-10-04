@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="pavel.chlouba"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-09-20 12:21:42 odp."/>
+        <attribute name="created" value="cGF2ZWwuY2hsb3ViYTtWVDEtMDY7MjAyMy0wOS0yMDsxMTo1MTo1NCBkb3AuOzMxNzM="/>
+        <attribute name="edited" value="cGF2ZWwuY2hsb3ViYTtWVDEtMDY7MjAyMy0wOS0yMDsxMjoyMTo0MiBvZHAuOzE7MzI3Ng=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <do expression="">
+                <declare name="a, b, v" type="Integer" array="False" size=""/>
+                <declare name="zna" type="String" array="False" size=""/>
+                <input variable="a"/>
+                <input variable="b"/>
+                <input variable="zna"/>
+                <if expression="zna == &quot;+&quot;">
+                    <then>
+                        <assign variable="v" expression="a + b"/>
+                    </then>
+                    <else>
+                        <if expression="zna == &quot;-&quot;">
+                            <then>
+                                <assign variable="v" expression="a - b"/>
+                            </then>
+                            <else>
+                                <if expression="zna == &quot;*&quot;">
+                                    <then>
+                                        <assign variable="v" expression="a*b"/>
+                                    </then>
+                                    <else>
+                                        <if expression="zna == &quot;/&quot;">
+                                            <then>
+                                                <assign variable="v" expression="a/b"/>
+                                            </then>
+                                            <else/>
+                                        </if>
+                                    </else>
+                                </if>
+                            </else>
+                        </if>
+                    </else>
+                </if>
+                <output expression="v" newline="True"/>
+            </do>
+        </body>
+    </function>
+</flowgorithm>
