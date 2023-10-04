@@ -1,0 +1,8 @@
+C:\Users\pavel.chlouba\source\repos\kalkulačka\kalkulačka\bin\Debug\kalkulačka.exe.config
+C:\Users\pavel.chlouba\source\repos\kalkulačka\kalkulačka\bin\Debug\kalkulačka.exe
+C:\Users\pavel.chlouba\source\repos\kalkulačka\kalkulačka\bin\Debug\kalkulačka.pdb
+C:\Users\pavel.chlouba\source\repos\kalkulačka\kalkulačka\obj\Debug\kalkulačka.csproj.AssemblyReference.cache
+C:\Users\pavel.chlouba\source\repos\kalkulačka\kalkulačka\obj\Debug\kalkulačka.csproj.SuggestedBindingRedirects.cache
+C:\Users\pavel.chlouba\source\repos\kalkulačka\kalkulačka\obj\Debug\kalkulačka.csproj.CoreCompileInputs.cache
+C:\Users\pavel.chlouba\source\repos\kalkulačka\kalkulačka\obj\Debug\kalkulačka.exe
+C:\Users\pavel.chlouba\source\repos\kalkulačka\kalkulačka\obj\Debug\kalkulačka.pdb
