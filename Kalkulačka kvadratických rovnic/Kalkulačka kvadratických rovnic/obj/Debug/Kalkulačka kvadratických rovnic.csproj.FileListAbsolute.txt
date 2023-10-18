@@ -1,0 +1,8 @@
+C:\Users\pavel.chlouba\source\repos\Kalkulačka kvadratických rovnic\Kalkulačka kvadratických rovnic\bin\Debug\Kalkulačka kvadratických rovnic.exe.config
+C:\Users\pavel.chlouba\source\repos\Kalkulačka kvadratických rovnic\Kalkulačka kvadratických rovnic\bin\Debug\Kalkulačka kvadratických rovnic.exe
+C:\Users\pavel.chlouba\source\repos\Kalkulačka kvadratických rovnic\Kalkulačka kvadratických rovnic\bin\Debug\Kalkulačka kvadratických rovnic.pdb
+C:\Users\pavel.chlouba\source\repos\Kalkulačka kvadratických rovnic\Kalkulačka kvadratických rovnic\obj\Debug\Kalkulačka kvadratických rovnic.csproj.AssemblyReference.cache
+C:\Users\pavel.chlouba\source\repos\Kalkulačka kvadratických rovnic\Kalkulačka kvadratických rovnic\obj\Debug\Kalkulačka kvadratických rovnic.csproj.SuggestedBindingRedirects.cache
+C:\Users\pavel.chlouba\source\repos\Kalkulačka kvadratických rovnic\Kalkulačka kvadratických rovnic\obj\Debug\Kalkulačka kvadratických rovnic.csproj.CoreCompileInputs.cache
+C:\Users\pavel.chlouba\source\repos\Kalkulačka kvadratických rovnic\Kalkulačka kvadratických rovnic\obj\Debug\Kalkulačka kvadratických rovnic.exe
+C:\Users\pavel.chlouba\source\repos\Kalkulačka kvadratických rovnic\Kalkulačka kvadratických rovnic\obj\Debug\Kalkulačka kvadratických rovnic.pdb
