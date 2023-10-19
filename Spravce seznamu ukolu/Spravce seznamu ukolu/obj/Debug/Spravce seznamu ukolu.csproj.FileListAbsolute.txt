@@ -1,0 +1,8 @@
+C:\Users\paja\source\repos\Spravce seznamu ukolu\Spravce seznamu ukolu\bin\Debug\Spravce seznamu ukolu.exe.config
+C:\Users\paja\source\repos\Spravce seznamu ukolu\Spravce seznamu ukolu\bin\Debug\Spravce seznamu ukolu.exe
+C:\Users\paja\source\repos\Spravce seznamu ukolu\Spravce seznamu ukolu\bin\Debug\Spravce seznamu ukolu.pdb
+C:\Users\paja\source\repos\Spravce seznamu ukolu\Spravce seznamu ukolu\obj\Debug\Spravce seznamu ukolu.csproj.AssemblyReference.cache
+C:\Users\paja\source\repos\Spravce seznamu ukolu\Spravce seznamu ukolu\obj\Debug\Spravce seznamu ukolu.csproj.SuggestedBindingRedirects.cache
+C:\Users\paja\source\repos\Spravce seznamu ukolu\Spravce seznamu ukolu\obj\Debug\Spravce seznamu ukolu.csproj.CoreCompileInputs.cache
+C:\Users\paja\source\repos\Spravce seznamu ukolu\Spravce seznamu ukolu\obj\Debug\Spravce seznamu ukolu.exe
+C:\Users\paja\source\repos\Spravce seznamu ukolu\Spravce seznamu ukolu\obj\Debug\Spravce seznamu ukolu.pdb
